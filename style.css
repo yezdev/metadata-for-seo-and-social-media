@@ -1,0 +1,38 @@
+.container {
+  text-align: center;
+}
+
+.row {
+  margin-top: 20px;
+}
+
+.shirtTitle {
+  font-size: 20px;
+}
+
+.price {
+  font-size: 20px;
+}
+
+.promotion {
+  font-size: 20px;
+}
+
+.preview {
+  height: 200px;
+  width: 200px;
+  margin: 5px;
+}
+
+a {
+  font-size: 16px;
+}
+
+.table td {
+  text-align: left;
+}
+
+.sizingGuide {
+  width: 300px;
+  height: 400px;
+}
